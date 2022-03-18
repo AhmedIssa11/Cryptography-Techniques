@@ -10,7 +10,11 @@
 - Polyalphabetic Ciphers
 - One-Time Pad
 
-### Transposition Techniques:
+### Transposition Techniques
+
+### Rotor Machines
+
+### Steganography
 
 #
 
