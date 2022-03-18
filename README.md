@@ -3,7 +3,7 @@
 ## Classical Encryption Techniques:
 
 ### Substitution Techniques:
-- Caesar Cipher
+- Caesar Cipher ✅
 - Monoalphabetic Ciphers
 - Playfair Cipher
 - Hill Cipher
