@@ -5,7 +5,7 @@ In this project we will develop a set of different Cryptography techniques (Encr
 
 ### Substitution Techniques:
 - Caesar Cipher ✅
-- Monoalphabetic Ciphers
+- Monoalphabetic Ciphers ✅
 - Playfair Cipher
 - Hill Cipher 🚧
 - Polyalphabetic Ciphers
