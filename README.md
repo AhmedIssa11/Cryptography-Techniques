@@ -6,7 +6,7 @@
 - Caesar Cipher ✅
 - Monoalphabetic Ciphers
 - Playfair Cipher
-- Hill Cipher
+- Hill Cipher 🚧
 - Polyalphabetic Ciphers
 - One-Time Pad
 
