@@ -1,6 +1,6 @@
-# Cryptography-Techniques
+# Cryptography-Techniques (Under Progress 🚧)
 
-## Classical Encryption Techniques (Under Progress 🚧):
+## Classical Encryption Techniques:
 
 ### Substitution Techniques:
 - Caesar Cipher ✅
