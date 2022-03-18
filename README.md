@@ -1,5 +1,5 @@
 # Cryptography-Techniques (Under Progress 🚧)
-In this project we will develop a set of different cryptography techniques from scratch.
+In this project we will develop a set of different Cryptography techniques (both Encryption & Decryption) from scratch.
 
 ## Classical Encryption Techniques:
 
