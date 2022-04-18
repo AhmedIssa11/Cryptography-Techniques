@@ -11,7 +11,7 @@ In this project we will develop a set of different Cryptography techniques (Encr
 - One-Time Pad
 
 ### Transposition Techniques
-- Row Transposition Cipher
+- Row Transposition Cipher ✅
 - Reil Fence Cipher
 
 ### Block Ciphers and The Data Encryption Standerd:
