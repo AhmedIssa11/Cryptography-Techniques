@@ -7,16 +7,16 @@ In this project we will develop a set of different Cryptography techniques (Encr
 - Caesar Cipher ✅
 - Monoalphabetic Ciphers ✅
 - Playfair Cipher
-- Hill Cipher 🚧
+- Vigenere Cipher 
 - One-Time Pad
 
 ### Transposition Techniques
+- Row Transposition Cipher
+- Reil Fence Cipher
 
-### Rotor Machines
-
-### Steganography
-
-## Block Ciphers and The Data Encryption Standerd:
+### Block Ciphers and The Data Encryption Standerd:
+- S-DES
+- S-AES
 
 #
 
