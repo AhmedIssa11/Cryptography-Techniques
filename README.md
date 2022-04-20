@@ -15,7 +15,7 @@ In this project we will develop a set of different Cryptography techniques (Encr
 - Reil Fence Cipher
 
 ### Block Ciphers and The Data Encryption Standerd:
-- S-DES 🚧
+- S-DES ✅
 - S-AES
 
 #
